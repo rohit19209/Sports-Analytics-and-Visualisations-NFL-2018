@@ -1,4 +1,4 @@
-# Sports-Analytics-and-Visulisations-NFL-2018
+# Sports-Analytics-and-Visualisations-NFL-2018
 Description - This Python Program is to show Sports Analytics and Visualizations of National Football League 2018 datasets.
 <br/>
 
